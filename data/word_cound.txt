@@ -1,0 +1,2 @@
+Hi, this file will be used for word cound program.
+You can edit it as per your wish.
